@@ -10,7 +10,7 @@ npm run dev
 
 ## Technologies
 
-`Next.js`, `redux`, `Passport.js`, `serverless`, `Mongodb`, `mongoose`, `Payment gateway`, `express.js`, `tailwind`, `git`
+`Next.js`, `redux`, `Payment gateway`, `tailwind`, `git`
 
 ## Time Boundation
 
