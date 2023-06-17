@@ -10,15 +10,18 @@ npm run dev
 
 ## Technologies
 
-`Next.js`, `redux`, `Passport.js`, `serverless`, `Mongodb`, `mongoose`, `Payment gateway`, `serverless`, `tailwind`, `git`
+`Next.js`, `redux`, `Passport.js`, `serverless`, `Mongodb`, `mongoose`, `Payment gateway`, `express.js`, `tailwind`, `git`
 
 ## Time Boundation
 
-------------------------- 4 weeks -----------------------------
-`1st week => basic architecture`
-`2nd week => backend integration`
-`3rd week => backend technology`
-`4th week => big bugs ui, ux resolve`
+### ------------------------- 4 weeks -----------------------------
+
+```bash
+1st week => basic architecture
+2nd week => backend integration
+3rd week => backend technology
+4th week => big bugs ui, ux resolve
+```
 
 ## Folder Structure 
 
