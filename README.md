@@ -45,4 +45,4 @@ package-lock.json
 
 ## Authors
 
-- [@Prince](https://github.com/PrinceBaghel258025)
+- [@Sumit](https://github.com/Baghel-sumit)
